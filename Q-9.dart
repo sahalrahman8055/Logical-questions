@@ -1,3 +1,6 @@
+// We need a function that can transform a number (integer) into a string.
+
+
 void m1() {
   int number = 3213;
 
